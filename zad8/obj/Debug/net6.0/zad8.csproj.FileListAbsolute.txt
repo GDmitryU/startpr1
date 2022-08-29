@@ -1,0 +1,15 @@
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar1\dz1\zad8\bin\Debug\net6.0\zad8.exe
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar1\dz1\zad8\bin\Debug\net6.0\zad8.deps.json
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar1\dz1\zad8\bin\Debug\net6.0\zad8.runtimeconfig.json
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar1\dz1\zad8\bin\Debug\net6.0\zad8.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar1\dz1\zad8\bin\Debug\net6.0\zad8.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar1\dz1\zad8\obj\Debug\net6.0\zad8.csproj.AssemblyReference.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar1\dz1\zad8\obj\Debug\net6.0\zad8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar1\dz1\zad8\obj\Debug\net6.0\zad8.AssemblyInfoInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar1\dz1\zad8\obj\Debug\net6.0\zad8.AssemblyInfo.cs
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar1\dz1\zad8\obj\Debug\net6.0\zad8.csproj.CoreCompileInputs.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar1\dz1\zad8\obj\Debug\net6.0\zad8.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar1\dz1\zad8\obj\Debug\net6.0\refint\zad8.dll
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar1\dz1\zad8\obj\Debug\net6.0\zad8.pdb
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar1\dz1\zad8\obj\Debug\net6.0\zad8.genruntimeconfig.cache
+C:\Users\dmitr\OneDrive\Рабочий стол\programmingstart\projects\seminar1\dz1\zad8\obj\Debug\net6.0\ref\zad8.dll
